@@ -8,8 +8,8 @@ ClusterGIS ofrece una serie de servicios geográficos para la generación de map
  * Fondos cartográficos
  * Procesamientos de imágenes de satélite
  
-Javscript API
-=============
+Javascript API
+==============
 
 Configuración
 -------------
