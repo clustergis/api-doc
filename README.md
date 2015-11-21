@@ -22,8 +22,7 @@ Para utilizar la API Javascript de ClusterGIS, ha de incluir los siguientes tags
 <link rel="stylesheet" href="http://api.clustergis.org/clustergis.css" type="text/css">
 <script type="text/javascript" src="http://api.clustergis.org/clustergis.js"></script>
 ```
-[Ejemplo](./examples/example-01.html "Example")
-<a href="http://clustergis.github.io/api-doc/examples/example-01.html" target="_blank">Example</a>
+<a href="http://clustergis.github.io/api-doc/examples/example-01.html" target="_blank">Ejemplo</a>
 
 #### Opciones
 Makes 3rd-level headings bigger.
