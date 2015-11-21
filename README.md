@@ -16,8 +16,14 @@ Configuración
 
 ### Scripts
 
-For the default theme (*theme-white*), You can set theme options by adding
-classes to the `<body>` element. The available options are:
+Para utilizar la API Javascript de ClusterGIS, ha de incluir los siguientes tags en el fichero html:
+
+``` html
+<link rel="stylesheet" href="http://api.clustergis.org/clustergis.css" type="text/css">
+<script type="text/javascript" src="http://api.clustergis.org/clustergis.js"></script>
+```
+[Ejemplo](./examples/example-01.html "Example")
+<a href="http://clustergis.github.io/api-doc/examples/example-01.html" target="_blank">Example</a>
 
 #### Opciones
 Makes 3rd-level headings bigger.
